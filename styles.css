@@ -1,0 +1,32 @@
+.table {
+    width: 450px;
+    text-align: center;
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 25px auto;
+}
+
+td {
+    border: 1px solid #b6b6b6;
+    cursor: pointer;
+    height: 150px;
+    width: 150px;
+    font-size: 50px;
+    line-height: 133px;
+}
+
+td:hover {
+    background-color: #f2f2f2;
+}
+
+.buttonContainer {
+    width: 67px;
+    margin: 0 auto;
+}
+
+#player {
+    text-align: center;
+}
